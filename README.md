@@ -18,5 +18,5 @@ I'm a **Software Engineering Student at PUCPR** with a passion for building syst
 ---
 
 ### 📫 How to reach me:
-- **Discord:** [Your Discord Link/Username]
-- **LinkedIn:** [Your LinkedIn Link]
+- **Discord:** gabriel.sanches
+- **LinkedIn:** https://www.linkedin.com/in/gabriel-sanches-41bab53ab/
