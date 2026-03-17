@@ -12,7 +12,6 @@ I'm a **Software Engineering Student at PUCPR** with a passion for building syst
 
 ### 🏎 Beyond the Code:
 - **Automotive Enthusiast:** I'm a big fan of car culture. If it involves performance or aesthetic mods, I'm interested.
-- **Music:** When I'm not coding, I'm likely playing my guitar or listening to some Beethoven.
 - **Future Goals:** I'm working towards a long-term dream of traveling South America in a motorhome after graduation and eventually moving to the USA.
 
 ---
